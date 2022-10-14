@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(145, 200, 237, 0.3);
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+button {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    background-color: lightpink;
+}
+
+.ingredients {
+    list-style-type: disc;
+    padding-left: 600px;
+    text-align: left;
+}
+
+.steps {
+    text-align: left;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.main.header {
+    text-decoration: underline;
+    color: #b336d6;
+}
